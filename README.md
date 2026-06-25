@@ -1,0 +1,1 @@
+# Clasificaci-n-de-curvas-de-estrellas-con-aprendizaje-autom-tico-
